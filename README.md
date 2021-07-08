@@ -31,5 +31,4 @@ random forests, SGD, SVM
 • Plot learning curves - when do you stop?
 • Determine the hyperparameters with the validation set
 • What is the final score on the test set for each algorithm?
-The data used can be found (here)[http://www.usm.lmu.de/people/moster/Teaching/AI2020/projects/7_photoz_images/
-photoz_images.tgz]
+The data used can be found [here](http://www.usm.lmu.de/people/moster/Teaching/AI2020/projects/7_photoz_images/photoz_images.tgz)
